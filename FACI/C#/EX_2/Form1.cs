@@ -17,30 +17,22 @@ namespace EX_2
             InitializeComponent();
         }
 
-        //Botão Executar 4318
+
         private void button1_Click(object sender, EventArgs e)
         {
-            DialogResult bc;
-            MessageBoxButtons bot = MessageBoxButtons.YesNoCancel;
-            MessageBoxIcon icon = MessageBoxIcon.Error;
-            MessageBoxDefaultButton bd = MessageBoxDefaultButton.Button1;
-            bc = MessageBox.Show("Message\nBox","Informação",bot, icon, bd);
-
-            switch(bc)
-            {
-                case DialogResult.OK:
-                    textBox1.Text = "OK";
-                    break;
-                    case DialogResult.Cancel:
-                    textBox1.Text = "Cancelar";
-                    break;
-            }
-
-
-            
+             textBox1.Text = "Bruno Duran Teodoro"; 
         }
-        //Botão Sair
         private void button2_Click(object sender, EventArgs e)
+        {
+            textBox1.Text = "Tenho 18 anos";
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button3_Click(object sender, EventArgs e)
         {
             Application.Exit();
         }
