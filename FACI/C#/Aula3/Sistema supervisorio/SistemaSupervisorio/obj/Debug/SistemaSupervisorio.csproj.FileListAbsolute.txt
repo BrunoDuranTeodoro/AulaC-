@@ -8,3 +8,10 @@ C:\Users\Aluno\Desktop\a\AulaC-\FACI\C#\Aula3\Sistema supervisorio\SistemaSuperv
 C:\Users\Aluno\Desktop\a\AulaC-\FACI\C#\Aula3\Sistema supervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Desktop\a\AulaC-\FACI\C#\Aula3\Sistema supervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.exe
 C:\Users\Aluno\Desktop\a\AulaC-\FACI\C#\Aula3\Sistema supervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.pdb
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\FACI\C#\Aula3\Sistema supervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\FACI\C#\Aula3\Sistema supervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.Form1.resources
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\FACI\C#\Aula3\Sistema supervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\FACI\C#\Aula3\Sistema supervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\FACI\C#\Aula3\Sistema supervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\FACI\C#\Aula3\Sistema supervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.exe
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\FACI\C#\Aula3\Sistema supervisorio\SistemaSupervisorio\obj\Debug\SistemaSupervisorio.pdb

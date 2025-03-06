@@ -16,21 +16,9 @@ namespace SistemaSupervisorio
         public Form1()
         {
             InitializeComponent();
-
-
-            pictureBox1.Image = System.Drawing.Image.FromFile("C:\\Imagens\\Semafaro.bmp");
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
+            pictureBox3.Image = Image.FromFile(@"C:\Imagens\semafaro.bmp");
 
         }
-
-        private void statusStrip1_ItemClicked(object sender, ToolStripItemClickedEventArgs e)
-        {
-
-        }
-
         private void Form1_Load(object sender, EventArgs e)
         {
             toolStripStatusLabel1.Text = DateTime.Now.ToLongDateString();
@@ -41,6 +29,15 @@ namespace SistemaSupervisorio
             label1.Text = DateTime.Now.ToLongTimeString();
         }
 
+        private void pictureBox3_Click(object sender, EventArgs e)
+        {
+            
 
+        }
+
+        private void Form1_Load_1(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -1,0 +1,20 @@
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_2\bin\Debug\objetivo_2.exe.config
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_2\bin\Debug\objetivo_2.exe
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_2\bin\Debug\objetivo_2.pdb
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_2\obj\Debug\objetivo_2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_2\obj\Debug\objetivo_2.Form1.resources
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_2\obj\Debug\objetivo_2.Properties.Resources.resources
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_2\obj\Debug\objetivo_2.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_2\obj\Debug\objetivo_2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_2\obj\Debug\objetivo_2.exe
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_2\obj\Debug\objetivo_2.pdb
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_2\bin\Debug\objetivo_2.exe.config
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_2\bin\Debug\objetivo_2.exe
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_2\bin\Debug\objetivo_2.pdb
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_2\obj\Debug\objetivo_2.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_2\obj\Debug\objetivo_2.Form1.resources
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_2\obj\Debug\objetivo_2.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_2\obj\Debug\objetivo_2.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_2\obj\Debug\objetivo_2.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_2\obj\Debug\objetivo_2.exe
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_2\obj\Debug\objetivo_2.pdb

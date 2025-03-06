@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\a\\AulaC-\\FACI\\C#\\Aula3\\Sistema supervisorio\\SistemaSupervisorio\\",
+  "WorkspaceRootPath": "C:\\Users\\Aluno\\Desktop\\Nova pasta\\AulaC-\\FACI\\C#\\Aula3\\Sistema supervisorio\\SistemaSupervisorio\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AB624EC1-0795-44F4-8E12-734DC59F3B42}|SistemaSupervisorio.csproj|c:\\users\\aluno\\desktop\\a\\aulac-\\faci\\c#\\aula3\\sistema supervisorio\\sistemasupervisorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AB624EC1-0795-44F4-8E12-734DC59F3B42}|SistemaSupervisorio.csproj|C:\\Users\\Aluno\\Desktop\\Nova pasta\\AulaC-\\FACI\\C#\\Aula3\\Sistema supervisorio\\SistemaSupervisorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AB624EC1-0795-44F4-8E12-734DC59F3B42}|SistemaSupervisorio.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AB624EC1-0795-44F4-8E12-734DC59F3B42}|SistemaSupervisorio.csproj|c:\\users\\aluno\\desktop\\a\\aulac-\\faci\\c#\\aula3\\sistema supervisorio\\sistemasupervisorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AB624EC1-0795-44F4-8E12-734DC59F3B42}|SistemaSupervisorio.csproj|c:\\users\\aluno\\desktop\\nova pasta\\aulac-\\faci\\c#\\aula3\\sistema supervisorio\\sistemasupervisorio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AB624EC1-0795-44F4-8E12-734DC59F3B42}|SistemaSupervisorio.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -24,22 +24,23 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\a\\AulaC-\\FACI\\C#\\Aula3\\Sistema supervisorio\\SistemaSupervisorio\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Nova pasta\\AulaC-\\FACI\\C#\\Aula3\\Sistema supervisorio\\SistemaSupervisorio\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\a\\AulaC-\\FACI\\C#\\Aula3\\Sistema supervisorio\\SistemaSupervisorio\\Form1.cs",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Nova pasta\\AulaC-\\FACI\\C#\\Aula3\\Sistema supervisorio\\SistemaSupervisorio\\Form1.cs",
               "RelativeToolTip": "Form1.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T00:54:17.857Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\a\\AulaC-\\FACI\\C#\\Aula3\\Sistema supervisorio\\SistemaSupervisorio\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Aluno\\Desktop\\Nova pasta\\AulaC-\\FACI\\C#\\Aula3\\Sistema supervisorio\\SistemaSupervisorio\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\Aluno\\Desktop\\a\\AulaC-\\FACI\\C#\\Aula3\\Sistema supervisorio\\SistemaSupervisorio\\Form1.cs [Design]",
+              "ToolTip": "C:\\Users\\Aluno\\Desktop\\Nova pasta\\AulaC-\\FACI\\C#\\Aula3\\Sistema supervisorio\\SistemaSupervisorio\\Form1.cs [Design]",
               "RelativeToolTip": "Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-27T00:49:35.202Z",

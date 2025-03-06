@@ -1,0 +1,30 @@
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\bin\Debug\objetivo_3.exe.config
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\bin\Debug\objetivo_3.exe
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\bin\Debug\objetivo_3.pdb
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.Form1.resources
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.exe
+C:\Users\Aluno\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.pdb
+C:\Users\gabri\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\bin\Debug\objetivo_3.exe.config
+C:\Users\gabri\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\bin\Debug\objetivo_3.exe
+C:\Users\gabri\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\bin\Debug\objetivo_3.pdb
+C:\Users\gabri\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.csproj.AssemblyReference.cache
+C:\Users\gabri\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.Form1.resources
+C:\Users\gabri\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.Properties.Resources.resources
+C:\Users\gabri\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.csproj.GenerateResource.cache
+C:\Users\gabri\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.csproj.CoreCompileInputs.cache
+C:\Users\gabri\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.exe
+C:\Users\gabri\Desktop\github\3SemestreADS\IFACI\IFACI\C#\aula02\atividade_2\objetivo_3\obj\Debug\objetivo_3.pdb
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_3\bin\Debug\objetivo_3.exe.config
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_3\bin\Debug\objetivo_3.exe
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_3\bin\Debug\objetivo_3.pdb
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_3\obj\Debug\objetivo_3.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_3\obj\Debug\objetivo_3.Form1.resources
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_3\obj\Debug\objetivo_3.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_3\obj\Debug\objetivo_3.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_3\obj\Debug\objetivo_3.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_3\obj\Debug\objetivo_3.exe
+C:\Users\Aluno\Desktop\Nova pasta\AulaC-\atividade_2\atividade_2\objetivo_3\obj\Debug\objetivo_3.pdb
