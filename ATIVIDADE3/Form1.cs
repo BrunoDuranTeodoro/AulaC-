@@ -40,7 +40,7 @@ namespace Atividade3
         private void timer1_Tick(object sender, EventArgs e)
         {
             label2.Text = DateTime.Now.ToLongTimeString();
-          
+            label3.Text = DateTime.Now.ToLongDateString();
         }
 
         private void Form1_Load(object sender, EventArgs e)

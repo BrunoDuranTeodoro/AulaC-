@@ -18,9 +18,3 @@ C:\Users\Aluno\Desktop\AulaInterfaceC-\Atividade\Atividade3\obj\Debug\Atividade3
 C:\Users\Aluno\Desktop\AulaInterfaceC-\Atividade\Atividade3\obj\Debug\Atividade3.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Desktop\AulaInterfaceC-\Atividade\Atividade3\obj\Debug\Atividade3.exe
 C:\Users\Aluno\Desktop\AulaInterfaceC-\Atividade\Atividade3\obj\Debug\Atividade3.pdb
-C:\Users\Aluno\Desktop\Atividade3\Atividade3\obj\Debug\Atividade3.csproj.AssemblyReference.cache
-C:\Users\Aluno\Desktop\Atividade3\Atividade3\obj\Debug\Atividade3.exe
-C:\Users\Aluno\Desktop\Atividade3\Atividade3\obj\Debug\Atividade3.pdb
-C:\Users\Aluno\Desktop\AUla\AulaC-\ATIVIDADE3\obj\Debug\Atividade3.csproj.AssemblyReference.cache
-C:\Users\Aluno\Desktop\AUla\AulaC-\ATIVIDADE3\obj\Debug\Atividade3.exe
-C:\Users\Aluno\Desktop\AUla\AulaC-\ATIVIDADE3\obj\Debug\Atividade3.pdb
